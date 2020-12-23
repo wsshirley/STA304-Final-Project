@@ -1,0 +1,1633 @@
+age_range,sex,birthplace,province,marital_status,education,voteparty,age,income_family,liberal,conservative,ndp,bloc,green,peoples
+2,Male,Canada,QC,Not married,University,1,25-34,"Less than $25,000",Yes,No,No,No,No,No
+3,Male,Canada,QC,Not married,University,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Male,Canada,QC,Not married,No university,4,55+,"$25,000 to $49,999",No,No,No,Yes,No,No
+1,Male,Canada,QC,Not married,No university,5,18-24,"$100,000 to $124,999",No,No,No,No,Yes,No
+1,Male,Canada,QC,Not married,University,4,18-24,"$25,000 to $49,999",No,No,No,Yes,No,No
+5,Female,Canada,QC,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+1,Male,Canada,QC,Not married,University,3,18-24,"Less than $25,000",No,No,Yes,No,No,No
+1,Female,Canada,QC,Not married,University,5,18-24,"$100,000 to $124,999",No,No,No,No,Yes,No
+3,Female,Other,QC,Not married,University,3,35-44,"$100,000 to $124,999",No,No,Yes,No,No,No
+4,Female,Other,QC,Not married,No university,4,45-54,"$50,000 to $74,999",No,No,No,Yes,No,No
+3,Male,Canada,QC,Not married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+3,Male,Canada,QC,Not married,No university,3,35-44,"$100,000 to $124,999",No,No,Yes,No,No,No
+3,Male,Canada,QC,Not married,No university,6,35-44,"$125,000 and more",No,No,No,No,No,Yes
+2,Male,Canada,QC,Married,University,3,25-34,"$125,000 and more",No,No,Yes,No,No,No
+5,Male,Canada,QC,Not married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,QC,Married,No university,2,35-44,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,QC,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Female,Other,QC,Married,University,2,45-54,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Female,Canada,QC,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,QC,Married,No university,4,55+,"$25,000 to $49,999",No,No,No,Yes,No,No
+4,Female,Canada,QC,Not married,University,5,45-54,"$75,000 to $99,999",No,No,No,No,Yes,No
+4,Male,Other,QC,Married,University,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,BC,Not married,University,1,35-44,"$25,000 to $49,999",Yes,No,No,No,No,No
+2,Male,Canada,QC,Not married,No university,1,25-34,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Canada,QC,Married,University,6,45-54,"$50,000 to $74,999",No,No,No,No,No,Yes
+2,Male,Canada,QC,Not married,University,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+3,Male,Canada,QC,Not married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+2,Male,Canada,QC,Married,No university,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Female,Canada,QC,Not married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Female,Canada,QC,Not married,University,4,35-44,"$50,000 to $74,999",No,No,No,Yes,No,No
+1,Male,Canada,QC,Not married,University,1,18-24,"Less than $25,000",Yes,No,No,No,No,No
+3,Female,Other,QC,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+1,Male,Canada,QC,Not married,No university,4,18-24,"$25,000 to $49,999",No,No,No,Yes,No,No
+3,Male,Canada,QC,Not married,No university,4,35-44,"$25,000 to $49,999",No,No,No,Yes,No,No
+2,Male,Canada,QC,Not married,No university,4,25-34,"$75,000 to $99,999",No,No,No,Yes,No,No
+2,Male,Canada,QC,Not married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Canada,QC,Not married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,ON,Not married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+1,Male,Canada,ON,Not married,No university,2,18-24,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,ON,Not married,University,1,35-44,"$25,000 to $49,999",Yes,No,No,No,No,No
+2,Female,Other,ON,Not married,University,5,25-34,"$75,000 to $99,999",No,No,No,No,Yes,No
+2,Male,Other,ON,Married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Canada,ON,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,ON,Married,No university,2,25-34,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Female,Canada,QC,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+1,Male,Other,ON,Not married,No university,2,18-24,"Less than $25,000",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,No university,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Female,Canada,ON,Not married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Not married,University,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Male,Canada,ON,Not married,University,3,55+,"$125,000 and more",No,No,Yes,No,No,No
+1,Female,Canada,ON,Not married,University,3,18-24,"$25,000 to $49,999",No,No,Yes,No,No,No
+3,Female,Canada,ON,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Male,Canada,ON,Not married,No university,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Other,ON,Married,University,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Other,ON,Married,University,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+5,Female,Canada,ON,Not married,University,5,55+,"$75,000 to $99,999",No,No,No,No,Yes,No
+3,Male,Canada,ON,Married,University,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Male,Canada,ON,Married,No university,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Other,ON,Married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+2,Male,Canada,ON,Not married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Other,ON,Married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,ON,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Canada,ON,Married,No university,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Male,Canada,ON,Not married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Other,ON,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,ON,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+3,Male,Canada,ON,Not married,University,3,35-44,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Male,Canada,ON,Married,No university,6,35-44,"$125,000 and more",No,No,No,No,No,Yes
+5,Male,Canada,ON,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+3,Male,Other,ON,Married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+2,Male,Other,ON,Married,University,3,25-34,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Male,Other,ON,Married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+2,Male,Canada,ON,Not married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Other,ON,Not married,No university,3,25-34,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Male,Other,ON,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Canada,ON,Married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,ON,Not married,University,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+3,Male,Other,ON,Married,No university,1,35-44,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,ON,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,ON,Not married,University,5,35-44,"$75,000 to $99,999",No,No,No,No,Yes,No
+1,Male,Canada,ON,Not married,University,3,18-24,"$25,000 to $49,999",No,No,Yes,No,No,No
+4,Male,Canada,ON,Not married,University,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Other,ON,Not married,University,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Canada,ON,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Other,ON,Not married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,ON,Not married,University,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Female,Canada,ON,Married,University,2,25-34,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Other,ON,Married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+1,Female,Canada,ON,Not married,University,2,18-24,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Male,Canada,BC,Not married,University,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Male,Canada,BC,Not married,No university,5,35-44,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Male,Canada,BC,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,BC,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,BC,Not married,University,5,55+,"$75,000 to $99,999",No,No,No,No,Yes,No
+3,Male,Canada,BC,Not married,University,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+4,Female,Canada,BC,Not married,University,3,45-54,"$50,000 to $74,999",No,No,Yes,No,No,No
+4,Male,Canada,ON,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,BC,Married,University,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+3,Male,Canada,BC,Married,No university,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+2,Female,Other,BC,Not married,University,1,25-34,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+3,Female,Canada,BC,Not married,No university,1,35-44,"$25,000 to $49,999",Yes,No,No,No,No,No
+2,Male,Canada,BC,Not married,University,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+2,Female,Canada,BC,Not married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+1,Male,Canada,AB,Not married,No university,2,18-24,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,AB,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,AB,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+1,Female,Canada,AB,Not married,University,3,18-24,"Less than $25,000",No,No,Yes,No,No,No
+5,Female,Canada,AB,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Female,Canada,AB,Married,No university,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Canada,AB,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Other,AB,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,AB,Married,No university,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,AB,Married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,AB,Not married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Male,Canada,AB,Not married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,AB,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,AB,Not married,No university,2,25-34,"Less than $25,000",No,Yes,No,No,No,No
+4,Male,Canada,AB,Not married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,AB,Not married,University,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Female,Canada,AB,Married,University,3,25-34,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Male,Canada,AB,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Male,Canada,AB,Not married,No university,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,AB,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+1,Male,Canada,MB,Not married,University,1,18-24,"Less than $25,000",Yes,No,No,No,No,No
+3,Female,Canada,MB,Not married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+3,Male,Canada,MB,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Other,MB,Married,University,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Male,Canada,MB,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,MB,Married,University,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,SK,Not married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+2,Male,Canada,AB,Married,No university,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+2,Female,Canada,AB,Married,University,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Female,Canada,NL,Married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+2,Male,Canada,NL,Not married,University,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,PE,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Canada,PE,Married,No university,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Female,Canada,PE,Married,No university,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Canada,NS,Not married,University,1,25-34,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Female,Canada,NS,Married,University,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+2,Male,Canada,NS,Not married,No university,5,25-34,"$25,000 to $49,999",No,No,No,No,Yes,No
+3,Male,Canada,NS,Married,No university,2,35-44,"Less than $25,000",No,Yes,No,No,No,No
+4,Male,Canada,NS,Not married,No university,3,45-54,"$25,000 to $49,999",No,No,Yes,No,No,No
+1,Male,Canada,NS,Not married,No university,3,18-24,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,NS,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,NS,Not married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,SK,Married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Married,No university,6,55+,"$75,000 to $99,999",No,No,No,No,No,Yes
+5,Female,Canada,SK,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Male,Canada,SK,Not married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+3,Male,Canada,QC,Not married,No university,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,NB,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Female,Canada,NB,Married,University,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,NB,Married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Other,NL,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,NS,Married,University,5,55+,"$75,000 to $99,999",No,No,No,No,Yes,No
+5,Male,Canada,BC,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,BC,Married,University,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,BC,Married,University,5,55+,"$100,000 to $124,999",No,No,No,No,Yes,No
+5,Male,Canada,BC,Married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,University,3,55+,"$75,000 to $99,999",No,No,Yes,No,No,No
+2,Female,Canada,BC,Not married,No university,2,25-34,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Female,Canada,BC,Not married,No university,2,45-54,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Other,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Other,BC,Not married,No university,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Female,Canada,BC,Not married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+3,Female,Canada,BC,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,BC,Not married,University,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,BC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Female,Canada,BC,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+3,Female,Canada,ON,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Canada,ON,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Other,ON,Married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Not married,University,5,55+,"Less than $25,000",No,No,No,No,Yes,No
+5,Male,Canada,ON,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Female,Canada,ON,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Other,ON,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,ON,Not married,No university,2,35-44,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Canada,ON,Not married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Canada,ON,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,ON,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Canada,ON,Married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Other,ON,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Other,ON,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Other,ON,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,ON,Not married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,MB,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Canada,MB,Married,No university,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,No university,6,55+,"$50,000 to $74,999",No,No,No,No,No,Yes
+3,Female,Canada,SK,Not married,University,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Female,Canada,SK,Married,No university,2,35-44,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,SK,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,No university,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,SK,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,University,3,55+,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,SK,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,SK,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Female,Canada,AB,Married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,AB,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,AB,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Female,Canada,AB,Married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Canada,AB,Not married,No university,2,45-54,"Less than $25,000",No,Yes,No,No,No,No
+2,Female,Other,AB,Married,No university,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,QC,Not married,No university,4,55+,"$25,000 to $49,999",No,No,No,Yes,No,No
+5,Female,Canada,QC,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Female,Canada,QC,Not married,University,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+4,Female,Other,QC,Married,University,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,QC,Not married,No university,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,QC,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,QC,Not married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,QC,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Canada,QC,Not married,No university,4,45-54,"$125,000 and more",No,No,No,Yes,No,No
+3,Female,Canada,QC,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,QC,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+3,Female,Canada,QC,Not married,University,5,35-44,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Female,Canada,QC,Not married,University,4,55+,"$25,000 to $49,999",No,No,No,Yes,No,No
+3,Male,Canada,QC,Not married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+4,Male,Canada,NL,Not married,No university,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,AB,Not married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Male,Canada,NL,Not married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,NL,Married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,NL,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Female,Canada,NL,Married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+2,Male,Canada,PE,Not married,University,5,25-34,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Canada,PE,Married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,PE,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,PE,Married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Canada,PE,Not married,University,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,PE,Not married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Female,Other,NS,Not married,University,1,45-54,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,NS,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+1,Male,Canada,NS,Not married,No university,3,18-24,"$25,000 to $49,999",No,No,Yes,No,No,No
+3,Male,Canada,NS,Married,No university,2,35-44,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,NB,Married,No university,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,NB,Not married,University,5,55+,"Less than $25,000",No,No,No,No,Yes,No
+1,Female,Canada,NS,Not married,University,5,18-24,"Less than $25,000",No,No,No,No,Yes,No
+2,Male,Other,QC,Not married,University,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+3,Female,Canada,QC,Not married,University,4,35-44,"$125,000 and more",No,No,No,Yes,No,No
+4,Male,Canada,QC,Not married,No university,1,45-54,"Less than $25,000",Yes,No,No,No,No,No
+5,Male,Other,QC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Other,QC,Not married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Female,Canada,QC,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Canada,QC,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+1,Male,Canada,QC,Not married,No university,2,18-24,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Canada,QC,Not married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Canada,QC,Married,No university,5,45-54,"$25,000 to $49,999",No,No,No,No,Yes,No
+3,Male,Other,QC,Not married,No university,1,35-44,"Less than $25,000",Yes,No,No,No,No,No
+3,Male,Other,QC,Not married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Other,QC,Not married,No university,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+4,Male,Canada,QC,Not married,No university,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Female,Canada,QC,Not married,University,4,35-44,"$75,000 to $99,999",No,No,No,Yes,No,No
+5,Male,Canada,QC,Not married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Female,Other,QC,Not married,No university,5,25-34,"$100,000 to $124,999",No,No,No,No,Yes,No
+2,Male,Canada,QC,Not married,University,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+2,Female,Canada,QC,Not married,University,5,25-34,"$25,000 to $49,999",No,No,No,No,Yes,No
+2,Female,Canada,QC,Not married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Female,Canada,QC,Not married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,QC,Not married,University,2,35-44,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,QC,Not married,No university,2,25-34,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,QC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,University,4,55+,"$50,000 to $74,999",No,No,No,Yes,No,No
+4,Male,Canada,ON,Not married,University,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+3,Male,Canada,QC,Married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+2,Male,Canada,QC,Not married,University,2,25-34,"Less than $25,000",No,Yes,No,No,No,No
+1,Male,Canada,ON,Not married,University,3,18-24,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Female,Other,ON,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Male,Other,ON,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,NB,Not married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+4,Male,Canada,ON,Married,No university,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+4,Female,Canada,ON,Not married,University,3,45-54,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Female,Canada,ON,Not married,University,3,35-44,"Less than $25,000",No,No,Yes,No,No,No
+3,Male,Canada,ON,Not married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Other,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Canada,ON,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Other,ON,Not married,No university,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Other,ON,Not married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Canada,ON,Not married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,ON,Married,No university,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,ON,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,ON,Married,University,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Not married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Other,ON,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Male,Canada,ON,Married,No university,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Not married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,ON,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+1,Male,Canada,ON,Not married,University,2,18-24,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Male,Canada,ON,Married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+3,Female,Other,ON,Not married,No university,1,35-44,"$25,000 to $49,999",Yes,No,No,No,No,No
+2,Female,Canada,ON,Not married,University,5,25-34,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Canada,ON,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+1,Male,Canada,ON,Not married,University,1,18-24,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,ON,Not married,University,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Other,ON,Married,No university,1,45-54,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Other,ON,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,ON,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+2,Female,Canada,ON,Married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,University,3,55+,"$125,000 and more",No,No,Yes,No,No,No
+4,Male,Canada,BC,Not married,No university,5,45-54,"$25,000 to $49,999",No,No,No,No,Yes,No
+1,Male,Canada,BC,Married,University,2,18-24,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Male,Canada,BC,Married,No university,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+3,Female,Canada,BC,Married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Other,BC,Married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Canada,BC,Married,No university,5,45-54,"$100,000 to $124,999",No,No,No,No,Yes,No
+3,Male,Other,BC,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+4,Male,Other,BC,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,BC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Not married,No university,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Other,BC,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Other,BC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Other,BC,Married,No university,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+2,Male,Canada,BC,Not married,University,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Canada,BC,Married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Other,BC,Married,University,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Other,BC,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Canada,BC,Not married,University,5,45-54,"Less than $25,000",No,No,No,No,Yes,No
+3,Male,Canada,BC,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,BC,Not married,University,2,35-44,"Less than $25,000",No,Yes,No,No,No,No
+4,Male,Other,BC,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,BC,Not married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+1,Male,Canada,BC,Not married,University,3,18-24,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Other,BC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,BC,Married,No university,3,25-34,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Female,Canada,BC,Married,No university,3,55+,"$125,000 and more",No,No,Yes,No,No,No
+3,Female,Canada,BC,Not married,No university,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Canada,BC,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+1,Male,Canada,BC,Not married,University,1,18-24,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,AB,Married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+3,Male,Canada,AB,Married,University,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+2,Male,Canada,AB,Not married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,AB,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Other,AB,Married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+2,Male,Canada,AB,Not married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,AB,Married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+2,Female,Canada,AB,Not married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Female,Other,AB,Not married,University,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,AB,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,AB,Married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+2,Male,Canada,AB,Married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,AB,Married,No university,2,35-44,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Male,Canada,AB,Not married,No university,2,45-54,"Less than $25,000",No,Yes,No,No,No,No
+2,Female,Canada,AB,Not married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Other,AB,Not married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Not married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Female,Canada,MB,Married,University,2,35-44,"Less than $25,000",No,Yes,No,No,No,No
+2,Male,Canada,MB,Not married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Other,MB,Married,No university,3,45-54,"$50,000 to $74,999",No,No,Yes,No,No,No
+1,Male,Canada,MB,Not married,No university,2,18-24,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Female,Canada,MB,Married,University,3,45-54,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,MB,Not married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Female,Canada,MB,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,MB,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Not married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,MB,Married,University,5,25-34,"$75,000 to $99,999",No,No,No,No,Yes,No
+3,Male,Canada,MB,Not married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+4,Male,Canada,MB,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,MB,Not married,No university,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Canada,MB,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Other,MB,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,MB,Not married,University,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+2,Female,Canada,SK,Married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,SK,Not married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Not married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,SK,Not married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+3,Male,Canada,SK,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Female,Canada,SK,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+2,Male,Canada,SK,Married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,SK,Not married,University,3,35-44,"$100,000 to $124,999",No,No,Yes,No,No,No
+2,Male,Canada,QC,Not married,University,2,25-34,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,NL,Not married,University,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+1,Male,Canada,NL,Not married,No university,3,18-24,"$125,000 and more",No,No,Yes,No,No,No
+3,Male,Canada,NL,Married,No university,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Other,NL,Married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Male,Canada,NL,Married,University,1,45-54,"Less than $25,000",Yes,No,No,No,No,No
+1,Male,Canada,NL,Not married,University,1,18-24,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Female,Canada,NL,Not married,No university,1,35-44,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Female,Canada,NL,Married,No university,3,35-44,"$50,000 to $74,999",No,No,Yes,No,No,No
+1,Female,Canada,ON,Not married,University,1,18-24,"Less than $25,000",Yes,No,No,No,No,No
+2,Male,Canada,AB,Not married,University,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Male,Canada,PE,Married,No university,5,35-44,"$100,000 to $124,999",No,No,No,No,Yes,No
+2,Female,Canada,PE,Not married,No university,5,25-34,"Less than $25,000",No,No,No,No,Yes,No
+3,Female,Canada,PE,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,PE,Married,No university,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+4,Male,Canada,PE,Married,No university,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,NS,Not married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,NS,Married,No university,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,NS,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+2,Male,Canada,NS,Not married,No university,5,25-34,"$25,000 to $49,999",No,No,No,No,Yes,No
+1,Female,Canada,NS,Not married,University,5,18-24,"$50,000 to $74,999",No,No,No,No,Yes,No
+2,Male,Canada,NS,Not married,No university,3,25-34,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Female,Canada,NS,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,NS,Not married,No university,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Canada,NS,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Female,Canada,NS,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Female,Canada,NS,Married,University,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Female,Canada,NS,Not married,University,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Female,Canada,QC,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Male,Canada,NB,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,NB,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Canada,ON,Not married,University,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,NB,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,NB,Married,University,1,35-44,"Less than $25,000",Yes,No,No,No,No,No
+5,Male,Canada,NB,Not married,No university,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+2,Male,Canada,NB,Not married,University,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Male,Canada,BC,Married,No university,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,BC,Not married,University,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+4,Male,Canada,BC,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+3,Female,Canada,BC,Not married,No university,2,35-44,"$25,000 to $49,999",No,Yes,No,No,No,No
+3,Female,Canada,BC,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+5,Male,Canada,BC,Not married,University,5,55+,"Less than $25,000",No,No,No,No,Yes,No
+5,Male,Other,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,BC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,BC,Not married,No university,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Male,Canada,BC,Married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Other,BC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,BC,Not married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Canada,BC,Not married,No university,3,55+,"$75,000 to $99,999",No,No,Yes,No,No,No
+3,Male,Canada,BC,Married,No university,6,35-44,"$75,000 to $99,999",No,No,No,No,No,Yes
+3,Male,Other,BC,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+5,Male,Other,BC,Not married,University,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+3,Male,Canada,BC,Not married,University,3,35-44,"Less than $25,000",No,No,Yes,No,No,No
+2,Female,Canada,BC,Not married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,BC,Married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+2,Female,Canada,BC,Married,University,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+3,Female,Canada,BC,Married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+2,Male,Canada,BC,Married,University,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+3,Male,Other,BC,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+2,Male,Canada,BC,Not married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,BC,Not married,No university,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Canada,BC,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+3,Male,Canada,BC,Not married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+2,Female,Canada,NB,Not married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,NB,Married,University,3,55+,"$125,000 and more",No,No,Yes,No,No,No
+3,Female,Canada,NB,Married,No university,2,35-44,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,NB,Married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Male,Canada,NB,Married,University,1,35-44,"Less than $25,000",Yes,No,No,No,No,No
+1,Male,Canada,NS,Not married,No university,2,18-24,"Less than $25,000",No,Yes,No,No,No,No
+4,Female,Canada,NB,Not married,University,6,45-54,"$125,000 and more",No,No,No,No,No,Yes
+4,Male,Canada,NB,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,NL,Not married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,NL,Married,No university,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+5,Female,Canada,NL,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,NL,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,NL,Married,No university,3,35-44,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,NL,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,NL,Not married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,NL,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+2,Female,Canada,NL,Not married,University,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,NL,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,NS,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Canada,NS,Not married,No university,5,45-54,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Male,Canada,NS,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Male,Canada,NS,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+1,Male,Canada,NS,Not married,No university,3,18-24,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,NS,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,NS,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,NS,Not married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Female,Canada,NS,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,PE,Not married,No university,5,35-44,"Less than $25,000",No,No,No,No,Yes,No
+5,Male,Canada,PE,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Canada,PE,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+1,Male,Canada,PE,Not married,No university,2,18-24,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Female,Canada,PE,Married,University,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Male,Canada,PE,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Canada,PE,Not married,University,3,25-34,"$75,000 to $99,999",No,No,Yes,No,No,No
+4,Male,Canada,PE,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Canada,PE,Married,University,1,45-54,"Less than $25,000",Yes,No,No,No,No,No
+1,Female,Canada,PE,Not married,No university,3,18-24,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Male,Canada,PE,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Not married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,MB,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,MB,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,MB,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,MB,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,MB,Not married,No university,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+2,Male,Canada,MB,Married,No university,2,25-34,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,MB,Married,University,3,45-54,"$75,000 to $99,999",No,No,Yes,No,No,No
+3,Male,Canada,MB,Married,No university,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Other,MB,Married,University,1,45-54,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,MB,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+1,Female,Canada,MB,Not married,University,3,18-24,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,MB,Not married,University,5,55+,"$100,000 to $124,999",No,No,No,No,Yes,No
+5,Female,Canada,MB,Married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Other,MB,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Canada,MB,Not married,University,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Female,Canada,BC,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,SK,Not married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,SK,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,No university,6,55+,"$125,000 and more",No,No,No,No,No,Yes
+2,Female,Canada,ON,Not married,University,1,25-34,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,SK,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+2,Male,Canada,SK,Not married,No university,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+2,Male,Canada,SK,Married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,SK,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,SK,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+1,Male,Canada,SK,Not married,No university,2,18-24,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,No university,6,55+,"$50,000 to $74,999",No,No,No,No,No,Yes
+5,Male,Canada,PE,Married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+4,Male,Other,AB,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,BC,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,BC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,University,3,55+,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Female,Canada,BC,Not married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Other,BC,Married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Female,Canada,MB,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,MB,Married,University,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Female,Canada,MB,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Female,Canada,MB,Not married,University,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,MB,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,NB,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,NB,Married,University,5,55+,"$100,000 to $124,999",No,No,No,No,Yes,No
+5,Male,Canada,NL,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,NL,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,NS,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+1,Male,Canada,NS,Not married,University,1,18-24,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,NS,Not married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Canada,PE,Married,No university,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Canada,PE,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,PE,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,PE,Married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+3,Female,Canada,SK,Not married,No university,3,35-44,"Less than $25,000",No,No,Yes,No,No,No
+5,Female,Canada,SK,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Male,Canada,MB,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,MB,Not married,No university,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,MB,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+4,Male,Canada,MB,Not married,No university,2,45-54,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,MB,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,MB,Not married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+3,Male,Canada,NB,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,NB,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+2,Male,Canada,NB,Not married,No university,1,25-34,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,NB,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Female,Canada,NB,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,NL,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,NL,Married,No university,3,55+,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,NL,Married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,NL,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Male,Canada,NL,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Canada,NS,Not married,University,5,45-54,"$100,000 to $124,999",No,No,No,No,Yes,No
+5,Female,Canada,NS,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,NB,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+2,Female,Canada,NS,Married,No university,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Female,Canada,NS,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,PE,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,PE,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,PE,Not married,University,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,PE,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,PE,Not married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Female,Canada,PE,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,PE,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,PE,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Canada,PE,Not married,No university,2,45-54,"$25,000 to $49,999",No,Yes,No,No,No,No
+3,Female,Canada,QC,Married,University,2,35-44,"Less than $25,000",No,Yes,No,No,No,No
+5,Female,Canada,QC,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,QC,Not married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,QC,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+3,Female,Canada,QC,Married,No university,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,QC,Not married,No university,1,35-44,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,QC,Married,No university,5,55+,"Less than $25,000",No,No,No,No,Yes,No
+3,Male,Other,QC,Married,University,1,35-44,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Female,Canada,QC,Not married,University,3,45-54,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Male,Canada,QC,Not married,No university,6,55+,"Less than $25,000",No,No,No,No,No,Yes
+2,Male,Canada,QC,Not married,No university,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Male,Canada,AB,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,AB,Not married,No university,5,55+,"Less than $25,000",No,No,No,No,Yes,No
+5,Male,Canada,AB,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,AB,Not married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Married,No university,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Other,AB,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Not married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,AB,Married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Female,Canada,AB,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,AB,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,BC,Not married,No university,2,45-54,"Less than $25,000",No,Yes,No,No,No,No
+5,Female,Other,BC,Not married,University,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,BC,Married,No university,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+4,Male,Canada,BC,Not married,No university,2,45-54,"Less than $25,000",No,Yes,No,No,No,No
+2,Female,Canada,NL,Married,University,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Female,Canada,BC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,BC,Married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Not married,No university,5,55+,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Female,Canada,BC,Not married,No university,5,55+,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Female,Canada,BC,Not married,No university,5,55+,"$100,000 to $124,999",No,No,No,No,Yes,No
+5,Male,Other,BC,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,BC,Married,No university,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Canada,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,BC,Not married,University,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Female,Canada,BC,Married,No university,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+2,Female,Canada,BC,Not married,No university,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Other,BC,Married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Other,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,BC,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Canada,ON,Married,No university,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Other,BC,Not married,University,5,55+,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Female,Canada,BC,Married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Female,Other,BC,Not married,No university,3,35-44,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Canada,BC,Married,No university,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Male,Other,BC,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,BC,Married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+3,Male,Canada,BC,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,BC,Married,No university,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Not married,No university,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Female,Other,BC,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Female,Canada,BC,Married,University,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Other,BC,Not married,University,5,55+,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Male,Canada,BC,Married,University,5,55+,"$100,000 to $124,999",No,No,No,No,Yes,No
+5,Male,Other,BC,Married,University,5,55+,"$100,000 to $124,999",No,No,No,No,Yes,No
+3,Male,Canada,BC,Married,No university,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Female,Canada,BC,Married,No university,5,45-54,"$75,000 to $99,999",No,No,No,No,Yes,No
+4,Male,Canada,BC,Married,No university,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Other,BC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,BC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,BC,Not married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+3,Female,Canada,BC,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Other,BC,Married,University,5,35-44,"$75,000 to $99,999",No,No,No,No,Yes,No
+5,Female,Other,BC,Not married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+4,Female,Canada,MB,Married,No university,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,No university,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,MB,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Other,MB,Married,No university,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Male,Other,MB,Married,University,2,35-44,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Female,Canada,MB,Married,University,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,MB,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,MB,Not married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Other,MB,Married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Male,Canada,MB,Married,No university,2,35-44,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,MB,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,MB,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,MB,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Not married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,MB,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,MB,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,SK,Not married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,NB,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Other,NB,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Other,NB,Married,University,5,55+,"$75,000 to $99,999",No,No,No,No,Yes,No
+5,Female,Canada,NB,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,NB,Married,University,5,55+,"Less than $25,000",No,No,No,No,Yes,No
+5,Male,Canada,NB,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,NB,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Male,Canada,NB,Not married,No university,1,45-54,"Less than $25,000",Yes,No,No,No,No,No
+4,Female,Canada,NB,Married,No university,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,NB,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,NB,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,NB,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Other,NB,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Other,NL,Not married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,NL,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+2,Female,Canada,NL,Not married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Canada,NL,Married,No university,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,NL,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Female,Canada,NL,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,NL,Not married,University,3,35-44,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Female,Canada,NL,Married,No university,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Male,Canada,NL,Not married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,NL,Married,No university,1,45-54,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Canada,NL,Not married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,NS,Married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Female,Canada,NS,Married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+3,Female,Canada,NS,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,NS,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,NS,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,NS,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,NS,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,NS,Not married,University,1,45-54,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,NS,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,NS,Married,No university,3,45-54,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Female,Canada,ON,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Other,ON,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Canada,ON,Not married,University,5,45-54,"$75,000 to $99,999",No,No,No,No,Yes,No
+5,Female,Canada,ON,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Not married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,5,55+,"Less than $25,000",No,No,No,No,Yes,No
+4,Male,Other,ON,Not married,No university,1,45-54,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Other,ON,Married,No university,3,55+,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Male,Canada,ON,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Canada,ON,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Female,Canada,ON,Married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Other,ON,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,ON,Married,University,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Other,ON,Not married,No university,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+4,Male,Other,ON,Married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+2,Female,Other,ON,Not married,University,3,25-34,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Female,Canada,ON,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Other,ON,Not married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Female,Canada,ON,Not married,University,2,35-44,"Less than $25,000",No,Yes,No,No,No,No
+4,Female,Canada,ON,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Canada,ON,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,ON,Not married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,NB,Married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Not married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+4,Female,Canada,ON,Not married,No university,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Not married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,ON,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+2,Female,Canada,ON,Not married,No university,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+4,Male,Canada,ON,Not married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,ON,Not married,University,5,35-44,"$75,000 to $99,999",No,No,No,No,Yes,No
+5,Male,Canada,ON,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Other,ON,Not married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Not married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Male,Other,ON,Not married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+1,Male,Canada,ON,Not married,University,3,18-24,"$125,000 and more",No,No,Yes,No,No,No
+5,Female,Canada,ON,Not married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,ON,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,ON,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,PE,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,PE,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,PE,Not married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+4,Female,Canada,PE,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,PE,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Other,QC,Married,University,4,55+,"$50,000 to $74,999",No,No,No,Yes,No,No
+5,Male,Canada,QC,Not married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Male,Canada,QC,Married,University,4,45-54,"$100,000 to $124,999",No,No,No,Yes,No,No
+3,Female,Canada,QC,Married,University,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+4,Male,Canada,QC,Married,No university,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Male,Canada,QC,Married,No university,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+5,Male,Canada,QC,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,QC,Not married,No university,4,55+,"Less than $25,000",No,No,No,Yes,No,No
+2,Female,Other,QC,Not married,University,1,25-34,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Married,No university,4,55+,"$25,000 to $49,999",No,No,No,Yes,No,No
+5,Male,Canada,QC,Married,No university,4,55+,"$50,000 to $74,999",No,No,No,Yes,No,No
+4,Male,Canada,QC,Not married,No university,4,45-54,"Less than $25,000",No,No,No,Yes,No,No
+5,Female,Canada,QC,Married,No university,4,55+,"$25,000 to $49,999",No,No,No,Yes,No,No
+5,Female,Canada,QC,Not married,No university,3,55+,"Less than $25,000",No,No,Yes,No,No,No
+3,Female,Canada,QC,Not married,University,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Male,Canada,QC,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,QC,Not married,University,4,55+,"$25,000 to $49,999",No,No,No,Yes,No,No
+5,Male,Canada,QC,Married,No university,4,55+,"$100,000 to $124,999",No,No,No,Yes,No,No
+4,Female,Canada,QC,Not married,University,1,45-54,"Less than $25,000",Yes,No,No,No,No,No
+4,Female,Canada,QC,Not married,No university,4,45-54,"Less than $25,000",No,No,No,Yes,No,No
+3,Female,Canada,QC,Not married,University,4,35-44,"$125,000 and more",No,No,No,Yes,No,No
+5,Male,Canada,QC,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Male,Canada,QC,Married,University,4,55+,"$50,000 to $74,999",No,No,No,Yes,No,No
+2,Female,Canada,QC,Not married,No university,5,25-34,"$75,000 to $99,999",No,No,No,No,Yes,No
+3,Female,Canada,QC,Not married,University,4,35-44,"$125,000 and more",No,No,No,Yes,No,No
+3,Female,Canada,QC,Not married,University,4,35-44,"$100,000 to $124,999",No,No,No,Yes,No,No
+5,Female,Canada,QC,Not married,No university,4,55+,"Less than $25,000",No,No,No,Yes,No,No
+5,Male,Canada,QC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Female,Other,QC,Married,University,1,45-54,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Canada,QC,Not married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,QC,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,QC,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,QC,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,QC,Married,University,5,35-44,"$75,000 to $99,999",No,No,No,No,Yes,No
+4,Female,Other,QC,Married,No university,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Other,QC,Married,University,1,45-54,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,University,4,55+,"$100,000 to $124,999",No,No,No,Yes,No,No
+4,Male,Other,QC,Not married,No university,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,University,4,55+,"Less than $25,000",No,No,No,Yes,No,No
+3,Female,Canada,QC,Married,University,4,35-44,"$125,000 and more",No,No,No,Yes,No,No
+5,Female,Canada,QC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,QC,Married,University,4,55+,"$100,000 to $124,999",No,No,No,Yes,No,No
+5,Male,Canada,QC,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Female,Canada,QC,Not married,University,4,45-54,"$25,000 to $49,999",No,No,No,Yes,No,No
+5,Male,Canada,QC,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,No university,4,55+,"Less than $25,000",No,No,No,Yes,No,No
+5,Male,Other,ON,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Other,QC,Not married,University,4,55+,"$75,000 to $99,999",No,No,No,Yes,No,No
+4,Male,Canada,QC,Married,No university,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Other,QC,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+2,Male,Canada,QC,Not married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,QC,Not married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+3,Female,Canada,QC,Married,No university,4,35-44,"$50,000 to $74,999",No,No,No,Yes,No,No
+4,Male,Canada,QC,Not married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,QC,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+3,Female,Canada,SK,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,SK,Not married,No university,6,55+,"Less than $25,000",No,No,No,No,No,Yes
+5,Male,Canada,SK,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Female,Canada,SK,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,SK,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Canada,SK,Married,University,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Not married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,SK,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,SK,Married,No university,2,25-34,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Male,Canada,SK,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,SK,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Not married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Other,AB,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+1,Female,Other,AB,Not married,No university,1,18-24,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,AB,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,AB,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,AB,Not married,No university,2,35-44,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Other,AB,Married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Not married,No university,5,55+,"$25,000 to $49,999",No,No,No,No,Yes,No
+2,Female,Other,AB,Not married,No university,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Male,Canada,AB,Not married,No university,2,35-44,"$75,000 to $99,999",No,Yes,No,No,No,No
+2,Female,Canada,AB,Married,University,2,25-34,"Less than $25,000",No,Yes,No,No,No,No
+2,Female,Canada,AB,Married,University,3,25-34,"$125,000 and more",No,No,Yes,No,No,No
+3,Female,Canada,AB,Not married,No university,2,35-44,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,AB,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,ON,Not married,No university,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,AB,Married,No university,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+1,Female,Canada,AB,Not married,No university,1,18-24,"$125,000 and more",Yes,No,No,No,No,No
+2,Female,Canada,AB,Married,University,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Female,Canada,AB,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,SK,Married,No university,2,45-54,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Other,AB,Married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+3,Female,Canada,BC,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+3,Male,Canada,AB,Married,University,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Female,Canada,AB,Not married,University,3,45-54,"Less than $25,000",No,No,Yes,No,No,No
+2,Male,Canada,AB,Married,No university,2,25-34,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Male,Other,AB,Married,University,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,AB,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Female,Canada,AB,Not married,No university,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,AB,Not married,University,6,55+,"$75,000 to $99,999",No,No,No,No,No,Yes
+3,Female,Canada,AB,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+2,Male,Canada,AB,Not married,University,5,25-34,"$75,000 to $99,999",No,No,No,No,Yes,No
+4,Male,Canada,AB,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,AB,Not married,No university,2,35-44,"Less than $25,000",No,Yes,No,No,No,No
+4,Male,Canada,AB,Not married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,AB,Not married,No university,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Other,AB,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+1,Male,Canada,AB,Not married,No university,3,18-24,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,MB,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Female,Canada,MB,Married,No university,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,MB,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Male,Canada,MB,Married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+2,Female,Canada,MB,Not married,University,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Canada,MB,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Male,Canada,MB,Not married,No university,2,45-54,"Less than $25,000",No,Yes,No,No,No,No
+2,Male,Canada,MB,Not married,No university,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Canada,MB,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Female,Canada,MB,Married,University,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+4,Male,Canada,MB,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,MB,Married,University,3,35-44,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Female,Canada,ON,Married,No university,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Female,Other,MB,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,MB,Not married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,MB,Not married,No university,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,University,5,55+,"$75,000 to $99,999",No,No,No,No,Yes,No
+3,Male,Canada,MB,Married,No university,5,35-44,"Less than $25,000",No,No,No,No,Yes,No
+3,Female,Canada,MB,Not married,University,2,35-44,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Male,Canada,MB,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,MB,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Canada,MB,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Other,MB,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,MB,Married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,MB,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,SK,Not married,University,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+1,Male,Canada,MB,Not married,University,1,18-24,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,MB,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Canada,MB,Married,University,5,45-54,"$100,000 to $124,999",No,No,No,No,Yes,No
+2,Male,Other,MB,Not married,No university,2,25-34,"$100,000 to $124,999",No,Yes,No,No,No,No
+1,Male,Canada,MB,Not married,No university,2,18-24,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+2,Male,Canada,MB,Not married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,MB,Not married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+2,Male,Canada,MB,Married,University,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,MB,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,MB,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,MB,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,MB,Not married,No university,6,35-44,"Less than $25,000",No,No,No,No,No,Yes
+5,Female,Canada,MB,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,AB,Not married,No university,2,25-34,"Less than $25,000",No,Yes,No,No,No,No
+5,Female,Canada,NB,Not married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Canada,NB,Married,No university,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,PE,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,NB,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+3,Male,Canada,NB,Married,University,3,35-44,"$100,000 to $124,999",No,No,Yes,No,No,No
+2,Male,Canada,NB,Married,No university,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+2,Female,Canada,NB,Married,No university,5,25-34,"$100,000 to $124,999",No,No,No,No,Yes,No
+2,Female,Canada,NB,Not married,University,5,25-34,"Less than $25,000",No,No,No,No,Yes,No
+5,Male,Canada,NB,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+2,Female,Canada,NB,Not married,University,5,25-34,"$75,000 to $99,999",No,No,No,No,Yes,No
+5,Female,Canada,NB,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Female,Canada,NB,Married,No university,3,45-54,"$75,000 to $99,999",No,No,Yes,No,No,No
+4,Male,Canada,NB,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,NB,Not married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,NB,Married,No university,5,25-34,"$75,000 to $99,999",No,No,No,No,Yes,No
+5,Female,Canada,NB,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+2,Female,Canada,NB,Not married,University,2,25-34,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Other,NB,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Canada,NB,Not married,No university,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Female,Other,NB,Not married,University,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+2,Male,Canada,NB,Not married,University,2,25-34,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,NB,Married,No university,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+4,Male,Canada,NB,Married,University,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,NB,Married,No university,5,55+,"$25,000 to $49,999",No,No,No,No,Yes,No
+3,Male,Canada,NB,Not married,University,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Canada,BC,Not married,University,5,45-54,"$25,000 to $49,999",No,No,No,No,Yes,No
+2,Male,Canada,BC,Not married,No university,1,25-34,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Male,Canada,BC,Not married,University,5,35-44,"$100,000 to $124,999",No,No,No,No,Yes,No
+4,Female,Canada,BC,Married,University,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Not married,No university,5,55+,"$75,000 to $99,999",No,No,No,No,Yes,No
+5,Male,Canada,BC,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+1,Male,Other,BC,Not married,No university,3,18-24,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Other,BC,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,BC,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,AB,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,BC,Not married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,BC,Married,No university,2,25-34,"$25,000 to $49,999",No,Yes,No,No,No,No
+2,Male,Canada,BC,Not married,No university,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Female,Canada,BC,Married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,BC,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,BC,Not married,University,5,35-44,"$100,000 to $124,999",No,No,No,No,Yes,No
+2,Female,Canada,BC,Married,No university,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+4,Male,Canada,BC,Not married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+1,Male,Other,AB,Not married,No university,3,18-24,"$50,000 to $74,999",No,No,Yes,No,No,No
+4,Male,Canada,BC,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Other,BC,Married,University,3,55+,"$125,000 and more",No,No,Yes,No,No,No
+5,Male,Other,BC,Married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Female,Canada,BC,Married,No university,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Female,Other,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Other,BC,Married,No university,1,45-54,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Female,Canada,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,BC,Married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+4,Male,Canada,BC,Married,No university,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,BC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Canada,BC,Not married,No university,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+2,Male,Canada,BC,Not married,University,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Canada,BC,Married,No university,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Female,Other,BC,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Other,BC,Married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Female,Canada,BC,Married,No university,3,45-54,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Other,BC,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Other,BC,Married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+4,Male,Canada,BC,Not married,University,2,45-54,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Other,BC,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Female,Canada,BC,Not married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,BC,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+1,Male,Canada,ON,Not married,University,5,18-24,"$25,000 to $49,999",No,No,No,No,Yes,No
+3,Male,Canada,BC,Married,No university,6,35-44,"$125,000 and more",No,No,No,No,No,Yes
+3,Female,Canada,BC,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+4,Male,Canada,BC,Married,No university,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Female,Canada,BC,Not married,University,5,45-54,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Female,Other,BC,Not married,University,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+3,Male,Canada,BC,Married,No university,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Other,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,BC,Married,No university,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Canada,BC,Not married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+1,Male,Canada,AB,Not married,No university,2,18-24,"$25,000 to $49,999",No,Yes,No,No,No,No
+2,Male,Canada,BC,Not married,No university,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Female,Other,BC,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Canada,BC,Not married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Male,Canada,BC,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,BC,Married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Male,Other,BC,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,BC,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Other,BC,Married,No university,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Other,BC,Not married,University,3,25-34,"$125,000 and more",No,No,Yes,No,No,No
+2,Male,Canada,BC,Married,No university,2,25-34,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Male,Canada,BC,Married,University,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Canada,BC,Not married,University,5,45-54,"$100,000 to $124,999",No,No,No,No,Yes,No
+5,Male,Canada,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+1,Male,Canada,BC,Not married,No university,2,18-24,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,BC,Married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,BC,Not married,No university,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+1,Male,Other,BC,Not married,University,1,18-24,"$75,000 to $99,999",Yes,No,No,No,No,No
+3,Male,Canada,BC,Married,No university,2,35-44,"Less than $25,000",No,Yes,No,No,No,No
+4,Female,Canada,BC,Married,No university,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+3,Female,Canada,BC,Not married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,BC,Married,University,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Female,Canada,BC,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Not married,No university,5,55+,"$25,000 to $49,999",No,No,No,No,Yes,No
+1,Female,Canada,BC,Not married,No university,1,18-24,"$50,000 to $74,999",Yes,No,No,No,No,No
+2,Male,Canada,NL,Not married,University,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Other,PE,Not married,University,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Female,Canada,PE,Not married,University,5,35-44,"Less than $25,000",No,No,No,No,Yes,No
+2,Male,Canada,NB,Not married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,PE,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Female,Canada,PE,Married,University,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,PE,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Male,Canada,PE,Not married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,PE,Married,University,5,35-44,"$75,000 to $99,999",No,No,No,No,Yes,No
+2,Female,Canada,PE,Not married,No university,5,25-34,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Female,Canada,PE,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,PE,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,PE,Not married,No university,1,35-44,"$25,000 to $49,999",Yes,No,No,No,No,No
+1,Male,Canada,PE,Not married,University,2,18-24,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,PE,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+2,Male,Canada,PE,Not married,No university,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+4,Female,Canada,NS,Married,University,3,45-54,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,PE,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Other,PE,Married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+2,Male,Canada,PE,Not married,University,5,25-34,"$100,000 to $124,999",No,No,No,No,Yes,No
+5,Male,Canada,PE,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Female,Other,PE,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,PE,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Male,Canada,PE,Married,No university,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,PE,Married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,PE,Not married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,PE,Married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+1,Male,Canada,PE,Not married,No university,3,18-24,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Canada,PE,Married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+2,Female,Canada,PE,Not married,No university,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+1,Male,Canada,NS,Not married,No university,5,18-24,"Less than $25,000",No,No,No,No,Yes,No
+5,Female,Canada,NS,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,NS,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,NS,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,NS,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Male,Canada,NS,Married,University,5,35-44,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Female,Canada,NS,Married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Canada,NS,Married,No university,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Canada,NS,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+1,Male,Other,NS,Not married,University,1,18-24,"Less than $25,000",Yes,No,No,No,No,No
+1,Male,Canada,NS,Not married,No university,5,18-24,"Less than $25,000",No,No,No,No,Yes,No
+5,Female,Other,NS,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Canada,NS,Married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+3,Female,Canada,NS,Not married,University,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+3,Male,Canada,NS,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,NL,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+3,Male,Canada,AB,Not married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,NL,Married,University,3,55+,"$125,000 and more",No,No,Yes,No,No,No
+2,Male,Other,NL,Married,University,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,NL,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+4,Male,Canada,NL,Not married,No university,3,45-54,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,NL,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,NL,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+2,Female,Canada,NL,Not married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,NL,Not married,University,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,NL,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,NL,Married,University,5,35-44,"$25,000 to $49,999",No,No,No,No,Yes,No
+3,Male,Canada,NL,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+5,Male,Canada,NL,Married,University,3,55+,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,NL,Not married,University,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+2,Female,Canada,NL,Not married,No university,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,NL,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,NL,Not married,No university,3,55+,"Less than $25,000",No,No,Yes,No,No,No
+5,Female,Other,NL,Married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+5,Male,Canada,NL,Married,No university,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+4,Female,Canada,NL,Married,No university,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Female,Other,ON,Not married,University,3,35-44,"$100,000 to $124,999",No,No,Yes,No,No,No
+4,Male,Canada,ON,Married,University,1,45-54,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Canada,ON,Married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+3,Female,Canada,ON,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Canada,ON,Not married,University,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+4,Male,Canada,ON,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,ON,Married,No university,2,35-44,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Canada,ON,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+4,Male,Canada,ON,Not married,University,3,45-54,"$75,000 to $99,999",No,No,Yes,No,No,No
+2,Male,Canada,QC,Not married,University,5,25-34,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Female,Canada,ON,Married,University,3,55+,"$125,000 and more",No,No,Yes,No,No,No
+5,Male,Other,ON,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Male,Other,ON,Not married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Canada,ON,Not married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,ON,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,ON,Not married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Male,Canada,QC,Not married,University,1,35-44,"Less than $25,000",Yes,No,No,No,No,No
+2,Male,Canada,ON,Not married,No university,3,25-34,"$125,000 and more",No,No,Yes,No,No,No
+4,Male,Canada,ON,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,ON,Not married,No university,1,25-34,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+3,Male,Canada,ON,Not married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+2,Male,Canada,ON,Not married,University,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Not married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Female,Canada,ON,Married,No university,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Other,ON,Not married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,ON,Married,University,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Female,Canada,ON,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+1,Female,Other,ON,Not married,University,1,18-24,"$125,000 and more",Yes,No,No,No,No,No
+2,Female,Canada,ON,Married,University,2,25-34,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Male,Canada,ON,Married,No university,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+2,Female,Canada,ON,Married,No university,2,25-34,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Other,ON,Married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Canada,ON,Not married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,No university,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+4,Female,Canada,ON,Married,No university,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+1,Male,Other,ON,Not married,University,1,18-24,"$50,000 to $74,999",Yes,No,No,No,No,No
+2,Male,Canada,ON,Married,University,1,25-34,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Not married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Other,ON,Married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Other,ON,Married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+2,Female,Canada,ON,Not married,No university,5,25-34,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Canada,ON,Married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Canada,ON,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,ON,Not married,No university,3,35-44,"$25,000 to $49,999",No,No,Yes,No,No,No
+4,Female,Canada,ON,Married,No university,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Female,Canada,ON,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,ON,Married,University,1,45-54,"Less than $25,000",Yes,No,No,No,No,No
+3,Female,Other,ON,Married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,NS,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Other,ON,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+2,Male,Canada,ON,Married,University,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Female,Canada,ON,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,ON,Not married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Male,Canada,ON,Not married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,ON,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Canada,ON,Not married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Canada,ON,Not married,University,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,ON,Married,University,5,45-54,"$75,000 to $99,999",No,No,No,No,Yes,No
+2,Female,Canada,ON,Married,No university,2,25-34,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Other,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,ON,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,ON,Not married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+2,Male,Other,ON,Married,No university,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,SK,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+2,Male,Canada,SK,Not married,University,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Female,Canada,SK,Married,University,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+2,Female,Canada,SK,Not married,No university,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+1,Male,Canada,SK,Not married,University,3,18-24,"$25,000 to $49,999",No,No,Yes,No,No,No
+2,Male,Canada,SK,Married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+2,Male,Canada,SK,Not married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Canada,SK,Not married,University,2,25-34,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Not married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+2,Female,Canada,AB,Married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Other,SK,Not married,University,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+1,Male,Other,SK,Not married,No university,2,18-24,"$100,000 to $124,999",No,Yes,No,No,No,No
+2,Male,Canada,SK,Married,University,2,25-34,"$75,000 to $99,999",No,Yes,No,No,No,No
+1,Female,Canada,SK,Not married,No university,2,18-24,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Other,SK,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+3,Male,Canada,SK,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,SK,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Other,SK,Not married,University,1,45-54,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Female,Canada,SK,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,SK,Married,No university,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Male,Canada,SK,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,SK,Married,No university,2,25-34,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Not married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Female,Canada,SK,Married,No university,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,SK,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Female,Other,SK,Married,University,3,35-44,"$25,000 to $49,999",No,No,Yes,No,No,No
+3,Female,Canada,SK,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,ON,Married,No university,6,35-44,"$100,000 to $124,999",No,No,No,No,No,Yes
+1,Male,Canada,SK,Not married,No university,2,18-24,"$75,000 to $99,999",No,Yes,No,No,No,No
+2,Male,Canada,SK,Not married,No university,5,25-34,"$75,000 to $99,999",No,No,No,No,Yes,No
+4,Male,Canada,SK,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+1,Female,Canada,SK,Not married,University,3,18-24,"$25,000 to $49,999",No,No,Yes,No,No,No
+3,Male,Canada,SK,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,SK,Married,University,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+2,Male,Canada,SK,Not married,No university,2,25-34,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,No university,6,55+,"$50,000 to $74,999",No,No,No,No,No,Yes
+1,Male,Canada,AB,Not married,University,2,18-24,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Not married,No university,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Male,Canada,SK,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,SK,Married,No university,2,25-34,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,SK,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,SK,Married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+3,Male,Other,SK,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,SK,Married,University,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Male,Canada,SK,Not married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+2,Male,Canada,SK,Not married,University,5,25-34,"Less than $25,000",No,No,No,No,Yes,No
+2,Male,Canada,SK,Married,No university,1,25-34,"Less than $25,000",Yes,No,No,No,No,No
+3,Female,Canada,SK,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,SK,Not married,University,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Male,Other,QC,Married,University,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Married,University,4,55+,"$125,000 and more",No,No,No,Yes,No,No
+3,Female,Canada,QC,Not married,University,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+2,Male,Other,QC,Not married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Canada,QC,Married,University,4,45-54,"$125,000 and more",No,No,No,Yes,No,No
+3,Female,Canada,QC,Not married,University,3,35-44,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Female,Canada,QC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+2,Female,Canada,QC,Married,No university,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Other,QC,Married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Canada,QC,Not married,No university,1,45-54,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Female,Canada,QC,Not married,No university,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Canada,QC,Not married,No university,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Other,QC,Not married,No university,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Other,QC,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,QC,Not married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Canada,QC,Married,No university,4,45-54,"$100,000 to $124,999",No,No,No,Yes,No,No
+3,Male,Canada,QC,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Other,QC,Married,University,2,35-44,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Female,Canada,QC,Married,No university,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Other,QC,Not married,No university,1,25-34,"$25,000 to $49,999",Yes,No,No,No,No,No
+1,Female,Canada,QC,Not married,No university,3,18-24,"$50,000 to $74,999",No,No,Yes,No,No,No
+2,Male,Canada,QC,Married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,QC,Married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+2,Female,Other,QC,Not married,University,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+2,Female,Other,QC,Not married,University,1,25-34,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,University,4,55+,"Less than $25,000",No,No,No,Yes,No,No
+2,Female,Canada,QC,Not married,University,1,25-34,"Less than $25,000",Yes,No,No,No,No,No
+3,Male,Canada,QC,Not married,University,4,35-44,"$125,000 and more",No,No,No,Yes,No,No
+5,Female,Canada,QC,Not married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Other,QC,Not married,University,5,45-54,"$75,000 to $99,999",No,No,No,No,Yes,No
+3,Male,Canada,QC,Married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Other,QC,Married,University,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+3,Female,Canada,QC,Not married,University,1,35-44,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,QC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Other,QC,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,QC,Not married,University,1,25-34,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,No university,4,55+,"$50,000 to $74,999",No,No,No,Yes,No,No
+2,Male,Canada,QC,Not married,No university,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+4,Male,Canada,QC,Married,No university,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,QC,Not married,No university,4,25-34,"$125,000 and more",No,No,No,Yes,No,No
+3,Male,Canada,QC,Not married,No university,1,35-44,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Canada,QC,Not married,No university,4,45-54,"$25,000 to $49,999",No,No,No,Yes,No,No
+5,Female,Canada,QC,Not married,No university,4,55+,"$125,000 and more",No,No,No,Yes,No,No
+5,Male,Canada,QC,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Male,Canada,QC,Married,University,4,45-54,"$125,000 and more",No,No,No,Yes,No,No
+4,Male,Other,QC,Married,No university,1,45-54,"$25,000 to $49,999",Yes,No,No,No,No,No
+2,Female,Canada,QC,Not married,University,5,25-34,"Less than $25,000",No,No,No,No,Yes,No
+4,Female,Canada,QC,Not married,University,3,45-54,"Less than $25,000",No,No,Yes,No,No,No
+1,Female,Canada,QC,Not married,University,3,18-24,"$125,000 and more",No,No,Yes,No,No,No
+5,Female,Canada,QC,Married,No university,4,55+,"$50,000 to $74,999",No,No,No,Yes,No,No
+2,Male,Canada,QC,Not married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+3,Male,Canada,QC,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,No university,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+3,Female,Canada,QC,Not married,University,4,35-44,"$100,000 to $124,999",No,No,No,Yes,No,No
+3,Female,Canada,QC,Not married,University,3,35-44,"Less than $25,000",No,No,Yes,No,No,No
+2,Female,Canada,QC,Not married,University,1,25-34,"Less than $25,000",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,QC,Married,University,4,55+,"$100,000 to $124,999",No,No,No,Yes,No,No
+3,Male,Canada,QC,Married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Male,Canada,QC,Not married,University,4,45-54,"$75,000 to $99,999",No,No,No,Yes,No,No
+3,Female,Canada,QC,Married,University,3,35-44,"Less than $25,000",No,No,Yes,No,No,No
+5,Female,Canada,QC,Not married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,QC,Not married,No university,1,25-34,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Canada,QC,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+2,Female,Canada,QC,Not married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Male,Other,QC,Married,University,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Canada,QC,Not married,University,4,45-54,"Less than $25,000",No,No,No,Yes,No,No
+2,Female,Canada,QC,Not married,University,5,25-34,"$25,000 to $49,999",No,No,No,No,Yes,No
+2,Female,Other,QC,Not married,University,1,25-34,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Male,Canada,QC,Not married,No university,3,35-44,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Male,Other,QC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,QC,Not married,No university,3,25-34,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Male,Canada,QC,Not married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Male,Canada,QC,Not married,University,1,25-34,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Male,Canada,BC,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,No university,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Female,Canada,BC,Married,No university,6,45-54,"$125,000 and more",No,No,No,No,No,Yes
+5,Female,Canada,BC,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Other,BC,Not married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,BC,Married,No university,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+4,Female,Canada,SK,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+3,Female,Canada,AB,Married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Female,Canada,AB,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,MB,Married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+4,Female,Canada,MB,Not married,University,5,45-54,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Female,Canada,MB,Married,No university,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Canada,MB,Married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,MB,Not married,No university,5,55+,"$75,000 to $99,999",No,No,No,No,Yes,No
+3,Female,Canada,MB,Not married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,MB,Married,University,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Canada,MB,Not married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+4,Male,Canada,PE,Married,University,1,45-54,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,PE,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,SK,Married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+2,Female,Canada,SK,Married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,SK,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,AB,Not married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,AB,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+3,Female,Canada,AB,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,AB,Married,No university,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Canada,BC,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,BC,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,No university,3,55+,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Female,Canada,BC,Not married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,University,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Male,Other,BC,Married,No university,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Female,Other,BC,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,BC,Married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+3,Male,Canada,BC,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+5,Female,Other,BC,Not married,University,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Female,Canada,BC,Not married,No university,5,55+,"Less than $25,000",No,No,No,No,Yes,No
+5,Male,Canada,BC,Not married,No university,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Female,Canada,BC,Not married,University,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Female,Canada,BC,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,BC,Not married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Other,BC,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Other,BC,Not married,University,5,55+,"Less than $25,000",No,No,No,No,Yes,No
+3,Female,Canada,BC,Married,University,3,35-44,"$125,000 and more",No,No,Yes,No,No,No
+5,Female,Canada,BC,Not married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Female,Canada,BC,Married,No university,5,55+,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Female,Canada,BC,Married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Female,Canada,BC,Married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+3,Male,Canada,NB,Married,No university,5,35-44,"Less than $25,000",No,No,No,No,Yes,No
+3,Male,Canada,NB,Not married,University,1,35-44,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,NB,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,NL,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,NL,Married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Female,Canada,NS,Not married,University,3,55+,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,NS,Not married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,NS,Not married,No university,5,55+,"$25,000 to $49,999",No,No,No,No,Yes,No
+5,Male,Canada,NS,Married,No university,6,55+,"$25,000 to $49,999",No,No,No,No,No,Yes
+2,Male,Canada,NS,Married,No university,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+2,Male,Canada,ON,Married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,ON,Not married,University,3,45-54,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Female,Canada,ON,Married,University,3,55+,"$125,000 and more",No,No,Yes,No,No,No
+5,Male,Canada,ON,Married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Other,ON,Not married,University,1,45-54,"$75,000 to $99,999",Yes,No,No,No,No,No
+2,Female,Canada,ON,Married,No university,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,6,55+,"$125,000 and more",No,No,No,No,No,Yes
+5,Male,Canada,ON,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Other,ON,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Female,Canada,ON,Married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+4,Male,Canada,ON,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,ON,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Female,Canada,ON,Not married,No university,3,55+,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Other,ON,Married,No university,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Not married,No university,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Female,Canada,ON,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Other,ON,Not married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+1,Male,Canada,PE,Not married,No university,1,18-24,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,PE,Married,No university,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+2,Male,Canada,PE,Not married,University,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Married,University,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+3,Female,Canada,QC,Married,University,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,University,4,55+,"$100,000 to $124,999",No,No,No,Yes,No,No
+3,Male,Canada,QC,Not married,No university,2,35-44,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Female,Canada,QC,Not married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,QC,Not married,No university,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+4,Female,Canada,QC,Not married,No university,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,University,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Female,Canada,QC,Not married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,QC,Not married,University,4,25-34,"$100,000 to $124,999",No,No,No,Yes,No,No
+3,Female,Canada,QC,Married,University,4,35-44,"$125,000 and more",No,No,No,Yes,No,No
+5,Male,Canada,QC,Married,No university,4,55+,"$50,000 to $74,999",No,No,No,Yes,No,No
+5,Male,Canada,QC,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Male,Canada,QC,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+3,Female,Canada,SK,Married,No university,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,SK,Not married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,SK,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,SK,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+3,Male,Canada,SK,Not married,University,1,35-44,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Female,Canada,SK,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,BC,Married,No university,5,45-54,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Other,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,BC,Not married,No university,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,University,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+1,Male,Canada,BC,Not married,University,3,18-24,"$25,000 to $49,999",No,No,Yes,No,No,No
+2,Male,Canada,BC,Married,University,3,25-34,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Male,Canada,BC,Not married,No university,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,BC,Married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Female,Other,BC,Married,University,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Female,Canada,BC,Married,No university,3,45-54,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Male,Other,BC,Married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+3,Male,Canada,BC,Married,University,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Canada,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+3,Female,Canada,BC,Married,University,6,35-44,"$125,000 and more",No,No,No,No,No,Yes
+3,Male,Canada,BC,Married,No university,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+3,Male,Canada,BC,Married,No university,1,35-44,"$100,000 to $124,999",Yes,No,No,No,No,No
+2,Male,Canada,BC,Not married,University,3,25-34,"$100,000 to $124,999",No,No,Yes,No,No,No
+4,Male,Canada,BC,Married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+5,Male,Canada,BC,Not married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+3,Male,Canada,BC,Married,No university,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Canada,BC,Not married,No university,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+2,Male,Canada,BC,Not married,University,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Female,Canada,BC,Not married,No university,6,55+,"$25,000 to $49,999",No,No,No,No,No,Yes
+3,Female,Canada,BC,Not married,University,3,35-44,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Male,Other,BC,Married,University,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,BC,Married,No university,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Canada,BC,Not married,University,1,55+,"Less than $25,000",Yes,No,No,No,No,No
+2,Female,Canada,BC,Not married,University,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+4,Male,Canada,BC,Not married,No university,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Male,Other,BC,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+2,Female,Canada,BC,Married,No university,2,25-34,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Other,BC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,BC,Married,No university,2,25-34,"$50,000 to $74,999",No,Yes,No,No,No,No
+2,Male,Canada,BC,Married,University,2,25-34,"$125,000 and more",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+1,Male,Canada,BC,Not married,No university,2,18-24,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Not married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+2,Male,Canada,BC,Not married,No university,2,25-34,"$25,000 to $49,999",No,Yes,No,No,No,No
+1,Male,Other,BC,Not married,University,1,18-24,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Canada,BC,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Canada,BC,Not married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,No university,3,55+,"$75,000 to $99,999",No,No,Yes,No,No,No
+1,Male,Canada,BC,Not married,University,1,18-24,"$25,000 to $49,999",Yes,No,No,No,No,No
+3,Female,Other,QC,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,No university,4,55+,"Less than $25,000",No,No,No,Yes,No,No
+3,Female,Canada,QC,Not married,No university,5,35-44,"$50,000 to $74,999",No,No,No,No,Yes,No
+3,Female,Canada,QC,Not married,No university,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,QC,Not married,No university,4,25-34,"$50,000 to $74,999",No,No,No,Yes,No,No
+4,Female,Canada,QC,Not married,University,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Married,University,4,55+,"$75,000 to $99,999",No,No,No,Yes,No,No
+3,Male,Canada,QC,Not married,No university,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,University,4,55+,"$50,000 to $74,999",No,No,No,Yes,No,No
+2,Male,Canada,QC,Married,No university,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+4,Female,Other,QC,Not married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,ON,Not married,University,1,25-34,"$75,000 to $99,999",Yes,No,No,No,No,No
+4,Male,Other,QC,Married,University,2,45-54,"Less than $25,000",No,Yes,No,No,No,No
+2,Male,Canada,QC,Married,University,4,25-34,"$75,000 to $99,999",No,No,No,Yes,No,No
+2,Female,Canada,QC,Not married,No university,4,25-34,"$125,000 and more",No,No,No,Yes,No,No
+3,Male,Canada,QC,Not married,No university,2,35-44,"Less than $25,000",No,Yes,No,No,No,No
+3,Male,Canada,QC,Not married,No university,4,35-44,"$125,000 and more",No,No,No,Yes,No,No
+3,Male,Canada,QC,Not married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,QC,Not married,No university,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,QC,Not married,No university,4,55+,"$100,000 to $124,999",No,No,No,Yes,No,No
+3,Female,Canada,QC,Not married,No university,4,35-44,"$125,000 and more",No,No,No,Yes,No,No
+3,Female,Canada,QC,Not married,No university,1,35-44,"Less than $25,000",Yes,No,No,No,No,No
+3,Female,Canada,QC,Married,University,4,35-44,"$125,000 and more",No,No,No,Yes,No,No
+1,Male,Other,QC,Not married,No university,2,18-24,"$25,000 to $49,999",No,Yes,No,No,No,No
+2,Male,Canada,QC,Not married,No university,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,QC,Not married,No university,4,55+,"$100,000 to $124,999",No,No,No,Yes,No,No
+4,Female,Canada,QC,Married,University,3,45-54,"$125,000 and more",No,No,Yes,No,No,No
+4,Male,Canada,QC,Not married,University,4,45-54,"$75,000 to $99,999",No,No,No,Yes,No,No
+2,Male,Canada,QC,Not married,University,5,25-34,"Less than $25,000",No,No,No,No,Yes,No
+4,Female,Canada,QC,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+2,Female,Canada,QC,Not married,University,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+3,Male,Canada,QC,Not married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,QC,Not married,No university,4,35-44,"$75,000 to $99,999",No,No,No,Yes,No,No
+4,Male,Canada,QC,Not married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+2,Male,Canada,QC,Not married,University,2,25-34,"$25,000 to $49,999",No,Yes,No,No,No,No
+2,Female,Canada,QC,Married,University,5,25-34,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Male,Canada,QC,Married,No university,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,QC,Not married,University,4,55+,"$75,000 to $99,999",No,No,No,Yes,No,No
+2,Male,Canada,QC,Not married,University,4,25-34,"Less than $25,000",No,No,No,Yes,No,No
+2,Male,Canada,QC,Not married,University,4,25-34,"$125,000 and more",No,No,No,Yes,No,No
+2,Male,Canada,QC,Not married,No university,2,25-34,"$25,000 to $49,999",No,Yes,No,No,No,No
+3,Male,Canada,QC,Not married,No university,5,35-44,"$125,000 and more",No,No,No,No,Yes,No
+4,Male,Other,QC,Married,University,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,QC,Not married,No university,4,55+,"$25,000 to $49,999",No,No,No,Yes,No,No
+5,Male,Canada,QC,Not married,No university,4,55+,"$50,000 to $74,999",No,No,No,Yes,No,No
+5,Female,Canada,QC,Not married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,QC,Not married,No university,3,35-44,"Less than $25,000",No,No,Yes,No,No,No
+4,Male,Other,QC,Married,University,2,45-54,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Female,Canada,QC,Married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Other,ON,Married,University,1,35-44,"Less than $25,000",Yes,No,No,No,No,No
+4,Male,Canada,ON,Not married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Other,NS,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+4,Female,Other,ON,Not married,University,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+3,Male,Canada,ON,Married,University,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+4,Female,Canada,ON,Not married,University,3,45-54,"Less than $25,000",No,No,Yes,No,No,No
+3,Female,Canada,ON,Not married,No university,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Not married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+1,Male,Canada,ON,Not married,No university,3,18-24,"$50,000 to $74,999",No,No,Yes,No,No,No
+2,Female,Canada,ON,Not married,University,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,ON,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Female,Canada,ON,Not married,No university,2,25-34,"$50,000 to $74,999",No,Yes,No,No,No,No
+3,Female,Canada,ON,Married,University,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Other,ON,Married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,University,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,ON,Married,No university,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+3,Male,Canada,ON,Married,University,2,35-44,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,ON,Married,No university,1,45-54,"$125,000 and more",Yes,No,No,No,No,No
+1,Male,Canada,ON,Not married,No university,3,18-24,"$125,000 and more",No,No,Yes,No,No,No
+4,Male,Canada,NB,Married,No university,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+2,Male,Canada,ON,Married,University,1,25-34,"$125,000 and more",Yes,No,No,No,No,No
+2,Female,Other,ON,Not married,University,3,25-34,"$125,000 and more",No,No,Yes,No,No,No
+2,Female,Canada,ON,Not married,University,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,AB,Married,No university,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+4,Male,Canada,ON,Married,No university,2,45-54,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,ON,Married,No university,2,55+,"Less than $25,000",No,Yes,No,No,No,No
+3,Female,Canada,ON,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,ON,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+5,Female,Canada,ON,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+1,Male,Canada,ON,Not married,University,5,18-24,"$50,000 to $74,999",No,No,No,No,Yes,No
+4,Male,Other,ON,Married,No university,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Male,Canada,ON,Married,University,1,35-44,"$125,000 and more",Yes,No,No,No,No,No
+5,Female,Canada,AB,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,BC,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+2,Female,Canada,BC,Married,No university,5,25-34,"$75,000 to $99,999",No,No,No,No,Yes,No
+5,Male,Canada,BC,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Not married,No university,1,55+,"$100,000 to $124,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Not married,No university,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Female,Canada,BC,Married,University,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Canada,BC,Married,No university,3,55+,"$75,000 to $99,999",No,No,Yes,No,No,No
+5,Female,Other,BC,Not married,No university,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Other,BC,Not married,University,3,55+,"$50,000 to $74,999",No,No,Yes,No,No,No
+5,Male,Canada,BC,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+4,Female,Canada,BC,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,BC,Married,University,1,55+,"$125,000 and more",Yes,No,No,No,No,No
+5,Male,Other,BC,Married,University,5,55+,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Canada,ON,Married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,PE,Not married,University,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,PE,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,PE,Not married,No university,2,45-54,"Less than $25,000",No,Yes,No,No,No,No
+5,Male,Canada,PE,Married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,NS,Married,University,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Female,Canada,PE,Married,University,5,55+,"$50,000 to $74,999",No,No,No,No,Yes,No
+5,Female,Canada,QC,Not married,University,3,55+,"Less than $25,000",No,No,Yes,No,No,No
+5,Male,Canada,QC,Not married,No university,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+4,Female,Canada,QC,Not married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Male,Other,QC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Canada,QC,Not married,University,1,55+,"$25,000 to $49,999",Yes,No,No,No,No,No
+5,Male,Canada,QC,Not married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+5,Male,Canada,QC,Not married,No university,4,55+,"$75,000 to $99,999",No,No,No,Yes,No,No
+5,Male,Canada,SK,Not married,No university,1,55+,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Female,Canada,SK,Married,No university,2,35-44,"$75,000 to $99,999",No,Yes,No,No,No,No
+4,Female,Canada,SK,Married,University,5,45-54,"$125,000 and more",No,No,No,No,Yes,No
+5,Female,Canada,SK,Married,No university,2,55+,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,NS,Married,No university,2,45-54,"$50,000 to $74,999",No,Yes,No,No,No,No
+4,Male,Canada,NS,Married,No university,2,45-54,"$125,000 and more",No,Yes,No,No,No,No
+4,Male,Canada,NS,Not married,No university,1,45-54,"$50,000 to $74,999",Yes,No,No,No,No,No
+3,Female,Canada,NS,Married,University,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+2,Female,Canada,BC,Married,University,6,25-34,"$125,000 and more",No,No,No,No,No,Yes
+5,Male,Canada,BC,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+3,Male,Canada,BC,Not married,University,3,35-44,"$75,000 to $99,999",No,No,Yes,No,No,No
+2,Male,Other,BC,Not married,University,3,25-34,"$125,000 and more",No,No,Yes,No,No,No
+5,Male,Other,BC,Married,University,2,55+,"$125,000 and more",No,Yes,No,No,No,No
+2,Male,Canada,BC,Not married,No university,3,25-34,"$50,000 to $74,999",No,No,Yes,No,No,No
+2,Male,Canada,BC,Married,No university,3,25-34,"Less than $25,000",No,No,Yes,No,No,No
+5,Female,Canada,BC,Married,University,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Female,Canada,BC,Married,No university,3,55+,"$25,000 to $49,999",No,No,Yes,No,No,No
+5,Male,Canada,BC,Married,No university,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,BC,Not married,University,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+5,Male,Canada,BC,Married,No university,6,55+,"Less than $25,000",No,No,No,No,No,Yes
+2,Female,Canada,BC,Not married,No university,2,25-34,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Female,Canada,BC,Not married,University,2,55+,"$25,000 to $49,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Married,No university,2,55+,"$75,000 to $99,999",No,Yes,No,No,No,No
+5,Male,Canada,BC,Not married,No university,5,55+,"Less than $25,000",No,No,No,No,Yes,No
+5,Male,Other,BC,Married,University,5,55+,"$100,000 to $124,999",No,No,No,No,Yes,No
+2,Male,Other,BC,Not married,No university,3,25-34,"$25,000 to $49,999",No,No,Yes,No,No,No
+3,Female,Canada,BC,Not married,University,1,35-44,"$50,000 to $74,999",Yes,No,No,No,No,No
+5,Male,Canada,BC,Married,University,1,55+,"$75,000 to $99,999",Yes,No,No,No,No,No
+5,Female,Other,BC,Married,No university,2,55+,"$100,000 to $124,999",No,Yes,No,No,No,No
+2,Male,Canada,BC,Married,University,3,25-34,"$125,000 and more",No,No,Yes,No,No,No
+5,Female,Other,BC,Married,University,3,55+,"$100,000 to $124,999",No,No,Yes,No,No,No
+2,Male,Other,BC,Not married,No university,3,25-34,"$75,000 to $99,999",No,No,Yes,No,No,No
