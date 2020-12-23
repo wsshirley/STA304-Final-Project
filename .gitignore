@@ -38,5 +38,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-census_data.csv
-census_cleaned.csv
+*.census_data.csv
+*.census_cleaned.csv
+git rm --cached *.csv
